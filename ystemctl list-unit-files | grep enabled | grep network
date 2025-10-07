@@ -1,0 +1,222 @@
+Oct 07 14:19:16 hopingboyz systemd[1]: Starting systemd-networkd.service - Network Configuration...
+Oct 07 14:19:16 hopingboyz systemd-networkd[462]: lo: Link UP
+Oct 07 14:19:16 hopingboyz systemd-networkd[462]: lo: Gained carrier
+Oct 07 14:19:16 hopingboyz systemd-networkd[462]: Enumeration completed
+Oct 07 14:19:16 hopingboyz systemd[1]: Started systemd-networkd.service - Network Configuration.
+Oct 07 14:19:16 hopingboyz systemd-networkd[462]: ens3: Configuring with /run/systemd/network/10-netplan-ens3.network.
+Oct 07 14:19:16 hopingboyz systemd-networkd[462]: ens3: Link UP
+Oct 07 14:19:16 hopingboyz systemd-networkd[462]: ens3: Gained carrier
+Oct 07 14:19:16 hopingboyz systemd-networkd[462]: ens3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+Oct 07 14:19:18 hopingboyz systemd-networkd[462]: ens3: Gained IPv6LL
+Oct 07 14:19:48 hopingboyz systemd-networkd[462]: tailscale0: Link UP
+Oct 07 14:19:48 hopingboyz systemd-networkd[462]: tailscale0: Gained carrier
+Oct 07 14:19:48 hopingboyz systemd-networkd[462]: tailscale0: Gained IPv6LL
+Oct 07 14:34:44 hopingboyz systemd-networkd[462]: docker0: Link UP
+Oct 07 14:37:42 hopingboyz systemd-networkd[462]: pterodactyl0: Link UP
+Oct 07 14:41:52 hopingboyz systemd-networkd[462]: veth00353d5: Link UP
+Oct 07 14:41:52 hopingboyz systemd-networkd[462]: veth00353d5: Gained carrier
+Oct 07 14:41:52 hopingboyz systemd-networkd[462]: pterodactyl0: Gained carrier
+Oct 07 14:41:53 hopingboyz systemd-networkd[462]: pterodactyl0: Gained IPv6LL
+Oct 07 14:41:53 hopingboyz systemd-networkd[462]: veth00353d5: Gained IPv6LL
+Oct 07 14:41:54 hopingboyz systemd-networkd[462]: veth00353d5: Lost carrier
+Oct 07 14:41:54 hopingboyz systemd-networkd[462]: veth00353d5: Link DOWN
+Oct 07 14:41:55 hopingboyz systemd-networkd[462]: pterodactyl0: Lost carrier
+Oct 07 14:41:56 hopingboyz systemd-networkd[462]: vethf80916f: Link UP
+Oct 07 14:41:56 hopingboyz systemd-networkd[462]: vethf80916f: Gained carrier
+Oct 07 14:41:56 hopingboyz systemd-networkd[462]: pterodactyl0: Gained carrier
+Oct 07 14:41:58 hopingboyz systemd-networkd[462]: vethf80916f: Gained IPv6LL
+Oct 07 14:42:22 hopingboyz systemd-networkd[462]: vethf80916f: Lost carrier
+Oct 07 14:42:22 hopingboyz systemd-networkd[462]: vethf80916f: Link DOWN
+Oct 07 14:42:23 hopingboyz systemd-networkd[462]: pterodactyl0: Lost carrier
+Oct 07 14:42:24 hopingboyz systemd-networkd[462]: vetha0f0658: Link UP
+Oct 07 14:42:24 hopingboyz systemd-networkd[462]: vetha0f0658: Gained carrier
+Oct 07 14:42:24 hopingboyz systemd-networkd[462]: pterodactyl0: Gained carrier
+Oct 07 14:42:25 hopingboyz systemd-networkd[462]: vetha0f0658: Gained IPv6LL
+Oct 07 14:42:32 hopingboyz systemd-networkd[462]: vetha0f0658: Lost carrier
+Oct 07 14:42:32 hopingboyz systemd-networkd[462]: vetha0f0658: Link DOWN
+Oct 07 14:42:33 hopingboyz systemd-networkd[462]: pterodactyl0: Lost carrier
+Oct 07 14:42:44 hopingboyz systemd-networkd[462]: vethfea14b6: Link UP
+Oct 07 14:42:44 hopingboyz systemd-networkd[462]: vethfea14b6: Gained carrier
+Oct 07 14:42:44 hopingboyz systemd-networkd[462]: pterodactyl0: Gained carrier
+Oct 07 14:42:46 hopingboyz systemd-networkd[462]: vethfea14b6: Gained IPv6LL
+Oct 07 14:50:59 hopingboyz systemd-networkd[462]: vethfea14b6: Lost carrier
+Oct 07 14:50:59 hopingboyz systemd-networkd[462]: vethfea14b6: Link DOWN
+Oct 07 14:51:00 hopingboyz systemd-networkd[462]: pterodactyl0: Lost carrier
+Oct 07 14:51:01 hopingboyz systemd-networkd[462]: vethd00a4d9: Link UP
+Oct 07 14:51:01 hopingboyz systemd-networkd[462]: vethd00a4d9: Gained carrier
+Oct 07 14:51:01 hopingboyz systemd-networkd[462]: pterodactyl0: Gained carrier
+Oct 07 14:51:02 hopingboyz systemd-networkd[462]: vethd00a4d9: Gained IPv6LL
+Oct 07 14:56:52 hopingboyz systemd-networkd[462]: vethd00a4d9: Lost carrier
+Oct 07 14:56:52 hopingboyz systemd-networkd[462]: vethd00a4d9: Link DOWN
+Oct 07 14:56:53 hopingboyz systemd-networkd[462]: pterodactyl0: Lost carrier
+Oct 07 14:56:55 hopingboyz systemd-networkd[462]: veth920c005: Link UP
+Oct 07 14:56:55 hopingboyz systemd-networkd[462]: veth920c005: Gained carrier
+Oct 07 14:56:55 hopingboyz systemd-networkd[462]: pterodactyl0: Gained carrier
+Oct 07 14:56:56 hopingboyz systemd-networkd[462]: veth920c005: Gained IPv6LL
+Oct 07 15:04:00 hopingboyz systemd-networkd[462]: veth920c005: Lost carrier
+Oct 07 15:04:00 hopingboyz systemd-networkd[462]: veth920c005: Link DOWN
+Oct 07 15:04:01 hopingboyz systemd-networkd[462]: pterodactyl0: Lost carrier
+Oct 07 15:04:10 hopingboyz systemd-networkd[462]: veth7a12eac: Link UP
+Oct 07 15:04:10 hopingboyz systemd-networkd[462]: veth7a12eac: Gained carrier
+Oct 07 15:04:10 hopingboyz systemd-networkd[462]: pterodactyl0: Gained carrier
+Oct 07 15:04:12 hopingboyz systemd-networkd[462]: veth7a12eac: Gained IPv6LL
+Oct 07 15:06:18 hopingboyz systemd-networkd[462]: veth7a12eac: Lost carrier
+Oct 07 15:06:18 hopingboyz systemd-networkd[462]: veth7a12eac: Link DOWN
+Oct 07 15:06:19 hopingboyz systemd-networkd[462]: pterodactyl0: Lost carrier
+Oct 07 15:06:19 hopingboyz systemd-networkd[462]: veth3433743: Link UP
+Oct 07 15:06:19 hopingboyz systemd-networkd[462]: veth3433743: Gained carrier
+Oct 07 15:06:19 hopingboyz systemd-networkd[462]: pterodactyl0: Gained carrier
+Oct 07 15:06:20 hopingboyz systemd-networkd[462]: veth3433743: Gained IPv6LL
+[0;1;39m-- Boot 35815572e35741e5b15292f913974fda --[0m
+Oct 07 17:08:53 hopingboyz systemd[1]: Starting systemd-networkd.service - Network Configuration...
+Oct 07 17:08:53 hopingboyz systemd-networkd[413]: lo: Link UP
+Oct 07 17:08:53 hopingboyz systemd-networkd[413]: lo: Gained carrier
+Oct 07 17:08:53 hopingboyz systemd-networkd[413]: Enumeration completed
+Oct 07 17:08:53 hopingboyz systemd[1]: Started systemd-networkd.service - Network Configuration.
+Oct 07 17:08:53 hopingboyz systemd-networkd[413]: ens3: Configuring with /run/systemd/network/10-netplan-ens3.network.
+Oct 07 17:08:53 hopingboyz systemd-networkd[413]: ens3: Link UP
+Oct 07 17:08:53 hopingboyz systemd-networkd[413]: ens3: Gained carrier
+Oct 07 17:08:53 hopingboyz systemd-networkd[413]: ens3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+Oct 07 17:08:55 hopingboyz systemd-networkd[413]: ens3: Gained IPv6LL
+Oct 07 17:09:14 hopingboyz systemd-networkd[413]: tailscale0: Link UP
+Oct 07 17:09:14 hopingboyz systemd-networkd[413]: tailscale0: Gained carrier
+Oct 07 17:09:14 hopingboyz systemd-networkd[413]: tailscale0: Gained IPv6LL
+Oct 07 17:09:26 hopingboyz systemd-networkd[413]: pterodactyl0: Link UP
+Oct 07 17:09:26 hopingboyz systemd-networkd[413]: docker0: Link UP
+[0;1;39m-- Boot b4ecdd6b2d3449c996497dfa6265416c --[0m
+Oct 07 17:16:21 hopingboyz systemd[1]: Starting systemd-networkd.service - Network Configuration...
+Oct 07 17:16:21 hopingboyz systemd-networkd[414]: lo: Link UP
+Oct 07 17:16:21 hopingboyz systemd-networkd[414]: lo: Gained carrier
+Oct 07 17:16:21 hopingboyz systemd-networkd[414]: Enumeration completed
+Oct 07 17:16:21 hopingboyz systemd-networkd[414]: ens3: Configuring with /run/systemd/network/10-netplan-ens3.network.
+Oct 07 17:16:21 hopingboyz systemd[1]: Started systemd-networkd.service - Network Configuration.
+Oct 07 17:16:21 hopingboyz systemd-networkd[414]: ens3: Link UP
+Oct 07 17:16:21 hopingboyz systemd-networkd[414]: ens3: Gained carrier
+Oct 07 17:16:21 hopingboyz systemd-networkd[414]: ens3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+Oct 07 17:16:23 hopingboyz systemd-networkd[414]: ens3: Gained IPv6LL
+Oct 07 17:16:25 hopingboyz systemd-networkd[414]: tailscale0: Link UP
+Oct 07 17:16:25 hopingboyz systemd-networkd[414]: tailscale0: Gained carrier
+Oct 07 17:16:25 hopingboyz systemd-networkd[414]: tailscale0: Gained IPv6LL
+Oct 07 17:16:31 hopingboyz systemd-networkd[414]: docker0: Link UP
+Oct 07 17:16:31 hopingboyz systemd-networkd[414]: pterodactyl0: Link UP
+[0;1;39m-- Boot ae3bf68f209d4b2a9f863a74f33ad907 --[0m
+Oct 07 17:50:10 hopingboyz systemd[1]: Starting systemd-networkd.service - Network Configuration...
+Oct 07 17:50:10 hopingboyz systemd-networkd[416]: lo: Link UP
+Oct 07 17:50:10 hopingboyz systemd-networkd[416]: lo: Gained carrier
+Oct 07 17:50:10 hopingboyz systemd-networkd[416]: Enumeration completed
+Oct 07 17:50:10 hopingboyz systemd[1]: Started systemd-networkd.service - Network Configuration.
+Oct 07 17:50:10 hopingboyz systemd-networkd[416]: ens3: Configuring with /run/systemd/network/10-netplan-ens3.network.
+Oct 07 17:50:10 hopingboyz systemd-networkd[416]: ens3: Link UP
+Oct 07 17:50:10 hopingboyz systemd-networkd[416]: ens3: Gained carrier
+Oct 07 17:50:10 hopingboyz systemd-networkd[416]: ens3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+Oct 07 17:50:11 hopingboyz systemd-networkd[416]: ens3: Gained IPv6LL
+Oct 07 17:50:20 hopingboyz systemd-networkd[416]: tailscale0: Link UP
+Oct 07 17:50:20 hopingboyz systemd-networkd[416]: tailscale0: Gained carrier
+Oct 07 17:50:20 hopingboyz systemd-networkd[416]: tailscale0: Gained IPv6LL
+Oct 07 17:50:27 hopingboyz systemd-networkd[416]: pterodactyl0: Link UP
+Oct 07 17:50:27 hopingboyz systemd-networkd[416]: docker0: Link UP
+[0;1;39m-- Boot 35ff8159932146fb9c5805ad2969d204 --[0m
+Oct 07 18:04:50 hopingboyz systemd[1]: Starting systemd-networkd.service - Network Configuration...
+Oct 07 18:04:50 hopingboyz systemd-networkd[421]: lo: Link UP
+Oct 07 18:04:50 hopingboyz systemd-networkd[421]: lo: Gained carrier
+Oct 07 18:04:50 hopingboyz systemd-networkd[421]: Enumeration completed
+Oct 07 18:04:50 hopingboyz systemd[1]: Started systemd-networkd.service - Network Configuration.
+Oct 07 18:04:50 hopingboyz systemd-networkd[421]: ens3: Configuring with /run/systemd/network/10-netplan-ens3.network.
+Oct 07 18:04:50 hopingboyz systemd-networkd[421]: ens3: Link UP
+Oct 07 18:04:50 hopingboyz systemd-networkd[421]: ens3: Gained carrier
+Oct 07 18:04:50 hopingboyz systemd-networkd[421]: ens3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+Oct 07 18:04:51 hopingboyz systemd-networkd[421]: ens3: Gained IPv6LL
+Oct 07 18:04:55 hopingboyz systemd-networkd[421]: tailscale0: Link UP
+Oct 07 18:04:55 hopingboyz systemd-networkd[421]: tailscale0: Gained carrier
+Oct 07 18:04:55 hopingboyz systemd-networkd[421]: tailscale0: Gained IPv6LL
+Oct 07 18:04:58 hopingboyz systemd-networkd[421]: pterodactyl0: Link UP
+Oct 07 18:04:58 hopingboyz systemd-networkd[421]: docker0: Link UP
+[0;1;39m-- Boot b6bac438b96a4c2187ad8184dbd3cd1e --[0m
+Oct 07 18:16:37 hopingboyz systemd[1]: Starting systemd-networkd.service - Network Configuration...
+Oct 07 18:16:38 hopingboyz systemd-networkd[422]: lo: Link UP
+Oct 07 18:16:38 hopingboyz systemd-networkd[422]: lo: Gained carrier
+Oct 07 18:16:38 hopingboyz systemd-networkd[422]: Enumeration completed
+Oct 07 18:16:38 hopingboyz systemd[1]: Started systemd-networkd.service - Network Configuration.
+Oct 07 18:16:38 hopingboyz systemd-networkd[422]: ens3: Configuring with /run/systemd/network/10-netplan-ens3.network.
+Oct 07 18:16:38 hopingboyz systemd-networkd[422]: ens3: Link UP
+Oct 07 18:16:38 hopingboyz systemd-networkd[422]: ens3: Gained carrier
+Oct 07 18:16:38 hopingboyz systemd-networkd[422]: ens3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+Oct 07 18:16:39 hopingboyz systemd-networkd[422]: ens3: Gained IPv6LL
+Oct 07 18:16:44 hopingboyz systemd-networkd[422]: tailscale0: Link UP
+Oct 07 18:16:44 hopingboyz systemd-networkd[422]: tailscale0: Gained carrier
+Oct 07 18:16:44 hopingboyz systemd-networkd[422]: tailscale0: Gained IPv6LL
+Oct 07 18:16:46 hopingboyz systemd-networkd[422]: pterodactyl0: Link UP
+Oct 07 18:16:46 hopingboyz systemd-networkd[422]: docker0: Link UP
+Oct 07 18:41:21 hopingboyz systemd[1]: Stopping systemd-networkd.service - Network Configuration...
+Oct 07 18:41:21 hopingboyz systemd-networkd[422]: ens3: DHCPv6 lease lost
+Oct 07 18:41:21 hopingboyz systemd[1]: systemd-networkd.service: Deactivated successfully.
+Oct 07 18:41:21 hopingboyz systemd[1]: Stopped systemd-networkd.service - Network Configuration.
+Oct 07 18:41:21 hopingboyz systemd[1]: Starting systemd-networkd.service - Network Configuration...
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: docker0: Link UP
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: pterodactyl0: Link UP
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: tailscale0: Link UP
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: tailscale0: Gained carrier
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: ens3: Link UP
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: ens3: Gained carrier
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: lo: Link UP
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: lo: Gained carrier
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: tailscale0: Gained IPv6LL
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: ens3: Gained IPv6LL
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: Enumeration completed
+Oct 07 18:41:21 hopingboyz systemd[1]: Started systemd-networkd.service - Network Configuration.
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: ens3: Configuring with /run/systemd/network/10-netplan-ens3.network.
+Oct 07 18:41:21 hopingboyz systemd-networkd[2197]: ens3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+[0;1;39m-- Boot e594d8bc32034bf590aafa04c4cd0c10 --[0m
+Oct 07 20:04:58 hopingboyz systemd[1]: Starting systemd-networkd.service - Network Configuration...
+Oct 07 20:04:58 hopingboyz systemd-networkd[424]: lo: Link UP
+Oct 07 20:04:58 hopingboyz systemd-networkd[424]: lo: Gained carrier
+Oct 07 20:04:58 hopingboyz systemd-networkd[424]: Enumeration completed
+Oct 07 20:04:58 hopingboyz systemd[1]: Started systemd-networkd.service - Network Configuration.
+Oct 07 20:04:58 hopingboyz systemd-networkd[424]: ens3: Configuring with /run/systemd/network/10-netplan-ens3.network.
+Oct 07 20:04:58 hopingboyz systemd-networkd[424]: ens3: Link UP
+Oct 07 20:04:58 hopingboyz systemd-networkd[424]: ens3: Gained carrier
+Oct 07 20:04:58 hopingboyz systemd-networkd[424]: ens3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+Oct 07 20:04:59 hopingboyz systemd-networkd[424]: ens3: Gained IPv6LL
+Oct 07 20:05:03 hopingboyz systemd-networkd[424]: tailscale0: Link UP
+Oct 07 20:05:03 hopingboyz systemd-networkd[424]: tailscale0: Gained carrier
+Oct 07 20:05:03 hopingboyz systemd-networkd[424]: tailscale0: Gained IPv6LL
+Oct 07 20:05:04 hopingboyz systemd-networkd[424]: pterodactyl0: Link UP
+Oct 07 20:05:04 hopingboyz systemd-networkd[424]: docker0: Link UP
+Oct 07 20:09:22 hopingboyz systemd[1]: Stopping systemd-networkd.service - Network Configuration...
+Oct 07 20:09:22 hopingboyz systemd-networkd[424]: ens3: DHCPv6 lease lost
+Oct 07 20:09:22 hopingboyz systemd[1]: systemd-networkd.service: Deactivated successfully.
+Oct 07 20:09:22 hopingboyz systemd[1]: Stopped systemd-networkd.service - Network Configuration.
+Oct 07 20:09:22 hopingboyz systemd[1]: Starting systemd-networkd.service - Network Configuration...
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: docker0: Link UP
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: pterodactyl0: Link UP
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: tailscale0: Link UP
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: tailscale0: Gained carrier
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: ens3: Link UP
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: ens3: Gained carrier
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: lo: Link UP
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: lo: Gained carrier
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: tailscale0: Gained IPv6LL
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: ens3: Gained IPv6LL
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: Enumeration completed
+Oct 07 20:09:22 hopingboyz systemd[1]: Started systemd-networkd.service - Network Configuration.
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: ens3: Configuring with /run/systemd/network/10-netplan-ens3.network.
+Oct 07 20:09:22 hopingboyz systemd-networkd[1510]: ens3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2
+Oct 07 20:13:48 hopingboyz systemd[1]: Stopping systemd-networkd.service - Network Configuration...
+Oct 07 20:13:48 hopingboyz systemd-networkd[1510]: ens3: DHCPv6 lease lost
+Oct 07 20:13:48 hopingboyz systemd[1]: systemd-networkd.service: Deactivated successfully.
+Oct 07 20:13:48 hopingboyz systemd[1]: Stopped systemd-networkd.service - Network Configuration.
+Oct 07 20:13:48 hopingboyz systemd[1]: Starting systemd-networkd.service - Network Configuration...
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: docker0: Link UP
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: pterodactyl0: Link UP
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: tailscale0: Link UP
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: tailscale0: Gained carrier
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: ens3: Link UP
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: ens3: Gained carrier
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: lo: Link UP
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: lo: Gained carrier
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: tailscale0: Gained IPv6LL
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: ens3: Gained IPv6LL
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: Enumeration completed
+Oct 07 20:13:48 hopingboyz systemd[1]: Started systemd-networkd.service - Network Configuration.
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: ens3: Configuring with /run/systemd/network/10-netplan-ens3.network.
+Oct 07 20:13:48 hopingboyz systemd-networkd[1661]: ens3: DHCPv4 address 10.0.2.15/24, gateway 10.0.2.2 acquired from 10.0.2.2

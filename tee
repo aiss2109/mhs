@@ -1,0 +1,2 @@
+clear
+sudo sysctl -w net.bridge.bridge-nf-call-iptables=1

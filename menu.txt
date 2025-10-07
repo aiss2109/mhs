@@ -1,0 +1,11 @@
+[1m========== MAIN MENU ==========[0m
+[1m1. Panel[0m
+[1m2. Wing[0m
+[1m3. Update[0m
+[1m4. Uninstall[0m
+[1m5. Blueprint[0m
+[1m6. Cloudflare[0m
+[1m7. Change Theme[0m
+[1m9. System Info[0m
+[1m10. Exit[0m
+[1m===============================[0m
