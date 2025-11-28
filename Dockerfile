@@ -13,7 +13,7 @@ RUN wget -q https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.zip
     && chmod +x ngrok && mv ngrok /usr/local/bin/ngrok
 
 # Imposta variabile ambiente
-ENV container docker
+#ENV container docker
 
 # Crea script di avvio
 RUN mkdir -p /run/sshd \
@@ -29,4 +29,5 @@ RUN mkdir -p /run/sshd \
 EXPOSE 80 443 3306 4040 5432 5700 5701 5010 6800 6900 8080 8888 9000
 
 # Comando di avvio
+CMD ["/sbin/init"]
 CMD ["/openssh.sh"]
